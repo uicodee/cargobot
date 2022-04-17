@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cargodatasheet",
+  "private_key_id": "f6557455193bfad948606fd73fc35afe5b2ff2f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChvmiLoQCBrMar\nIU838fyXt5/m3nL4qoovcXgv7Fge9gHTtLCdgF3E0xCMOtJsoYyu+eoRtqAsKtZ0\nojhwqzIDRtP/ettV1yyjx+svVsKhQ3y+WSeMtME9u7/OjsySi3H0QaQkYnN8q27E\nbUvGsYP7FI5sLFCsqbnhT0ywHw8TTeJ9ui7ZWu+3+HLv7JZ0vZS2h2NUDjaroLkP\nsWzG04moHDjg4YUMaw7XqV7HJxkw9DINEy3YN0ea0h76PGCOpOqVBr3HavUDMb8b\ntPUGK3Q/oq+PFOTqmIvbHBM8aBkcmLZVZv9O2+Rp7BrZmzoVTqqhzxKDr0kzGpiZ\nuYNaRIInAgMBAAECggEALCWso2/uk3Z1Q4Bz/vEt4LteCcXt27GwxgJSq8H2y3ya\nQw6upk7DSVXSznO/u6bcn2XXXb5bObL3lh4xCY+wtvQ+KR1/gI6awJlwuBsWRK4G\n/m2XPfCYTiFQ2TBg5h7pm6HPC59TplOkiDjM1g7d10plFWGDI52v/q+GXwwbMUlB\nIEEXQxej4Dw0v30AyH/4OVo799jj+w8D7+52OpdR8BTlSkyRAg6PpJkSiyqCqtGA\nfMkuViyax+f5Ts96KaBbL2mTqr3pR6SGsQgzMjkQNFCmahB/JXXosv6XDiWVZ7uB\n/8oJfKnRnksocE1hYdalyrkgVzVlNVMfZAAQkZbvAQKBgQDjqkLz/GuFEWYtRLJe\nuO8btITHF9iBXA8ZJ2O3QIYgnx0Q3MlZVIgy11kr7bVnSv1Ny2QRdy8A9Q6JN7Vw\nmDRYjdNnVf5UuShZhWEQupNOp0e4iAAeXmpPpLJpJ20M1x2g0CciZ5TZg45snCH6\nxppoxYzIkc7Aw3GAjy5Z15NN9QKBgQC138yIMtGMp/GvhPZvhqwdguQUa4oIX8iY\nIx3+NfciZz0iEvOZ4Kac/IZdYQrp7BZUQKE2ffTMiVS9u/1rtfIau5GiLHqJT8ro\ntqE6A4TgtacP1UskHYLBWgeEWM6TLeH8ZmTTMLueP0GmD9LBJoSFKTY5OXdA10T2\nR3XNNTCCKwKBgQCjB+MIO4N3eB02X5Jn+IDp0xyeQfo9sIHzXlyu9trV83tp/uGF\nQd6CoenuZjxYar/3/KV9SF71jYdKRgV9StF5dJ6lylPlse4uJTB8PU+NrIbUozeK\nh8wTmnpUiPIzlrxV05mirpBOL0JHjotavOwICSem3Zs0OQFHscDcf16yHQKBgFqE\n+p1G/biN1eJPwP+c/Yjqnm3zYA3u7j2aLNFbNpcu3uRYnlmV0BcOMCnFpNLsJ+jj\nCdm/Mtmh+EU+jVDQi6D2ffNDQ/GXfxv32aKwIbBdeLqOpAljjrKBBoC+WoIyMemX\nZNMfzCFkxl3KPlDXxNkpu80bZtkkyzPwORdbQ7tlAoGANNDeYSaLdCqbhpiEoFLb\nT7bM5dRMDdEdk+wqodKhjnL7/kEplTHLX1LvhuMb770u8LP+gwZm4gLT/M34lIBA\nV4h3ChXKwRc1AePuxvAf7LfyXvdlfGO/z62yjv4xSwSkvRxnKdCm3y4NTWqS3EM0\ng/MOXWiLKmVfY07+Oygehkc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cargobot@cargodatasheet.iam.gserviceaccount.com",
+  "client_id": "108713839355981336970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cargobot%40cargodatasheet.iam.gserviceaccount.com"
+}

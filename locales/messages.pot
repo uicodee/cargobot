@@ -1,0 +1,149 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-04-17 21:45+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: tgbot/handlers/content.py:13
+msgid "👤 Ismingizni kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:22
+msgid "📍 Adresingizni kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:29
+msgid "🌇 Shahringizni kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:37
+msgid "Telefon raqamingizni tugma yordamida kiriting 👇🏻"
+msgstr ""
+
+#: tgbot/handlers/content.py:39
+msgid "📞 Raqamni ulashish"
+msgstr ""
+
+#: tgbot/handlers/content.py:48
+msgid "❌ Iltimos faqat tugma yordamida kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:55
+msgid ""
+"📋 Ma'lumotlarni qayta tekshirib oling\n"
+"\n"
+"👤 <b>Familiya:</b> {surname_sender}\n"
+"👤 <b>Ism:</b> {name_sender}\n"
+"📍 <b>Manzil:</b> {address_sender}\n"
+"🌇 <b>Shahar:</b> {city_sender}\n"
+"📞 <b>Telefon:</b> {phone_sender}\n"
+msgstr ""
+
+#: tgbot/handlers/content.py:63 tgbot/handlers/content.py:115
+msgid "✅ Tasdiqlash"
+msgstr ""
+
+#: tgbot/handlers/content.py:64 tgbot/handlers/content.py:116
+#: tgbot/handlers/content.py:145 tgbot/keyboards/cancel.py:6
+msgid "❌ Bekor qilish"
+msgstr ""
+
+#: tgbot/handlers/content.py:74
+msgid "👤 Qabul qiluvchi ismini kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:81
+msgid "📍 Qabul qiluvchi adresini kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:88
+msgid "🌇 Qabul qiluvchi shahrini kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:96
+msgid "📞 Qabul qiluvchi telefonini raqamini kiriting"
+msgstr ""
+
+#: tgbot/handlers/content.py:107
+msgid ""
+"📋 Ma'lumotlarni qayta tekshirib oling\n"
+"\n"
+"👤 <b>Qabul qiluvchi familiyasi:</b> {surname_receiver}\n"
+"👤 <b>Qabul qiluvchi ismi:</b> {name_receiver}\n"
+"📍 <b>Qabul qiluvchi manzili:</b> {address_receiver}\n"
+"🌇 <b>Qabul qiluvchi shahri:</b> {city_receiver}\n"
+"📞 <b>Qabul qiluvchi telefon raqami:</b> {phone_receiver}\n"
+msgstr ""
+
+#: tgbot/handlers/content.py:126
+msgid ""
+"📤 Yuboruvchi:\n"
+"\n"
+"👤 <b>Familiya:</b> {surname_sender}\n"
+"👤 <b>Ism:</b> {name_sender}\n"
+"📍 <b>Manzil:</b> {address_sender}\n"
+"🌇 <b>Shahar:</b> {city_sender}\n"
+"📞 <b>Telefon:</b> {phone_sender}\n"
+"\n"
+"📥 Qabul qiluvchi:\n"
+"\n"
+"👤 <b>Qabul qiluvchi familiyasi:</b> {surname_receiver}\n"
+"👤 <b>Qabul qiluvchi ismi:</b> {name_receiver}\n"
+"📍 <b>Qabul qiluvchi manzili:</b> {address_receiver}\n"
+"🌇 <b>Qabul qiluvchi shahri:</b> {city_receiver}\n"
+"📞 <b>Qabul qiluvchi telefon raqami:</b> {phone_receiver}\n"
+"\n"
+"📦 Buyurtma xaqida ma'lumot:\n"
+"\n"
+"<em>{box_info}</em>"
+msgstr ""
+
+#: tgbot/handlers/content.py:144
+msgid "✅ Tasdiqlash va yuborish"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:30 tgbot/handlers/user.py:26
+msgid "Asosiy menu"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:37
+msgid "👤 Familiyangizni kiriting"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:45
+msgid "👤 Qabul qiluvchi familiyasini kiriting"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:53
+msgid "Yubormoqchi bo'lgan buyurtamngiz xaqida ma'lumot bering"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:109
+msgid "Buyurtmangiz qo'shildi!"
+msgstr ""
+
+#: tgbot/handlers/query_handlers.py:115
+msgid "❌ Bekor qilindi"
+msgstr ""
+
+#: tgbot/keyboards/main_menu.py:10
+msgid "🧾 Ro'yxatdan o'tish"
+msgstr ""
+
+#: tgbot/keyboards/main_menu.py:11
+msgid "🌐 Tilni o'zgartirish"
+msgstr ""
+
